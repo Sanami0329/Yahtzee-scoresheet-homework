@@ -1,6 +1,6 @@
 https://yahtzee-scoresheet-sk.netlify.app/  
 
-JavaScript HTML CSS
+#### JavaScript/HTML/CSS
 
 # Yahtzee score sheetの概要/About Yahtzee score sheet 
 Yahtzee score sheetは、2人でYahtzee（ヤッツィー）を楽しむ際に使えるスコアシートです。  
@@ -24,4 +24,5 @@ After you enter the score, the total is calculated automatically.
 
 
 https://github.com/user-attachments/assets/1d1b6d1e-dafb-4c83-8570-8c143b7a0f4f
+
 
